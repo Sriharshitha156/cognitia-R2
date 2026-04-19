@@ -3,6 +3,9 @@
 A full-stack web application that accepts a user question, sends it to an AI model via the Groq API, displays the response in a clean UI, and stores each Q&A pair in MongoDB Atlas.
 
 ---
+## Live Demo
+- Frontend: https://cognitia-r3.vercel.app
+- Backend: https://cognitia-r2.vercel.app
 
 ## Project Overview
 
